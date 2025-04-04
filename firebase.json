@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "attandance-management-sy-89f4a",
+          "appId": "1:222800508266:android:547a6c37fbc6f38cd86113",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "attandance-management-sy-89f4a",
+          "configurations": {
+            "android": "1:222800508266:android:547a6c37fbc6f38cd86113",
+            "ios": "1:222800508266:ios:7d72501ac32694c7d86113",
+            "macos": "1:222800508266:ios:7d72501ac32694c7d86113",
+            "web": "1:222800508266:web:76a7888bb421b4f7d86113",
+            "windows": "1:222800508266:web:13e8638f35377cd2d86113"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

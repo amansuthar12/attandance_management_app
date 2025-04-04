@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222800508266",
+    "project_id": "attandance-management-sy-89f4a",
+    "storage_bucket": "attandance-management-sy-89f4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222800508266:android:547a6c37fbc6f38cd86113",
+        "android_client_info": {
+          "package_name": "com.example.attandance_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfUp3WPmZjo5pOzohBFCB7MCEiaj50-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
